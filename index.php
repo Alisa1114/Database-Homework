@@ -6,7 +6,7 @@ echo '<pre>';
 $servername = "127.0.0.1";
 $username = "Alisa";
 $password = "yume0303";
-$dbname = "hw3";
+$dbname = "touhou";
  
 // 创建连接
 $conn = new mysqli($servername, $username, $password, $dbname);
